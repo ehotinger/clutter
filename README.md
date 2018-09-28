@@ -1,2 +1,3 @@
 # clutter
-For miscellaneous notes and crap I may want to save eventually
+
+For miscellaneous notes and stuff I may want to save eventually.
